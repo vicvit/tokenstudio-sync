@@ -9,6 +9,10 @@
         "black": {
           "$type": "color",
           "$value": "#000000"
+        },
+        "orange": {
+          "$type": "color",
+          "$value": "#f50"
         }
       }
     },
