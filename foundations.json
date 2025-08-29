@@ -12,7 +12,7 @@
         },
         "orange": {
           "$type": "color",
-          "$value": "#f1929D5"
+          "$value": "#1929D5"
         }
       }
     },
